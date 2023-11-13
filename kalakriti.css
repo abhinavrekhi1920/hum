@@ -171,6 +171,7 @@ div h5{
     justify-content: space-around;
     color: #ffffff;
     opacity: 1;
+
 }
 .cont{
     padding-left: 10px;
@@ -180,8 +181,6 @@ div h5{
     padding-left: 4px;
 }
 #heart :hover{
-    font-size: x-large;
     transition: 0.5s;
     transform: scale(1.19);
-
 }
